@@ -1,0 +1,16 @@
+[{
+            id:1,
+            name:"mukul",
+            email:"mukul.in"
+        },
+        {
+            id:2,
+            name:"harshit",
+            email:"harshit.in"   
+        },
+        {
+            id:3,
+            name:"divyanshu",
+            email:"divyanshu.in"
+        }
+        ]
